@@ -12,18 +12,7 @@ Explore reported COVID-19 counts in Armenia, validate the input data, visualize 
 
 The supplied data contains **134 observations** from **3 February to 26 June 2020**, with **11 missing calendar dates**, no missing cells and no exact duplicate rows. Missing reporting dates are not treated as zero. Counts are interpreted as daily reports because they are non-monotonic; the CSV does not contain an authoritative data dictionary, so this interpretation should be verified against the upstream source before operational use.
 
-## My contribution and team credit
 
-The original team presentation attributes **trend analysis, visualizations and model evaluation** to **Vane Sargsyan**.
-
-| Team member | Contribution in the original coursework |
-|---|---|
-| Mariam (Մարիամ) | Data preprocessing, feature engineering and dataset preparation |
-| Vane (Վանե) | Trend analysis, visualizations and model evaluation |
-| Knarik (Քնարիկ) | Exploratory data analysis and prediction generation |
-| Elen (Էլեն) | Model selection and implementation, result visualization and best-model summary |
-
-This is a revised presentation of team coursework, not a claim of sole authorship. Portfolio corrections and added baselines are described in [CHANGELOG.md](CHANGELOG.md). The original submission and slides remain unchanged outside this package.
 
 ## Analysis preview
 
